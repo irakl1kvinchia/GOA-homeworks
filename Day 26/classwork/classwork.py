@@ -12,5 +12,3 @@ def find_last_even(numbers):
             return numbers[index]
         
 print(find_last_even(numbers_list))
-    
-
