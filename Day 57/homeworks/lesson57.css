@@ -6,7 +6,7 @@
 
 body{
     background-image: url(./360_F_94255289_bLOLo8dVkESH4wP4QNVUg4hWBlcBEEOg.jpg);
-    display: flex;
+    display: grid;
     justify-content: space-evenly;
 }
 
@@ -17,7 +17,7 @@ ul{
 
 li{
     display: inline-block;
-    padding: 10px 15px;
+    padding: 5px 5px;
     transform: 0.45s;
     color: white;
 }
@@ -31,7 +31,3 @@ li:hover{
     border-radius: 15px;
 }
 
-.hhh{
-    margin-top: 300px;
-    margin-left: 10px;
-}
